@@ -1,6 +1,6 @@
 'use client'
 
-import React, { use, useEffect, useRef } from 'react'
+import React, { useEffect, useRef } from 'react'
 import { useIntersection } from 'react-use';
 import { Title } from './title';
 import { cn } from '@/lib/utils';
@@ -26,8 +26,9 @@ export const ProductsGroupList: React.FC<Props> = ({
   const setActiveCategoryId =  useCategoryStore((state) => state.setActiveId);
   const intersectionRef = useRef(null);
   const intersection = useIntersection(intersectionRef, {
-    threshold: 0.4
+    threshold: 0.4,
   });
+
 
   useEffect(() => {
     if(intersection?.isIntersecting) {
