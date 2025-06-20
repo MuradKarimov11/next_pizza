@@ -7,7 +7,7 @@ import { Check } from 'lucide-react';
 import { CheckboxFiltersGroup } from './checkbox-filters-group';
 
 interface Props {
-    className?: string;
+  className?: string;
 }
 
 export const Filters: React.FC<Props> = ({className}) => {
