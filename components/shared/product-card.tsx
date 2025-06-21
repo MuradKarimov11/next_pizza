@@ -4,12 +4,17 @@ import { Button } from "../ui";
 import { Plus } from "lucide-react";
 import { Title } from "./title";
 
+interface Ingredient {
+    name: string;
+}
+
 interface Props {
     id: number;
     name: string;
     price: number;
     imageUrl: string;
     className?: string;
+    ingredients?: Ingredient[];
 }
 
 export const ProductCard: React.FC<Props> = ({
@@ -18,7 +23,7 @@ export const ProductCard: React.FC<Props> = ({
     price,
     imageUrl,
     className = '',
-    // ingredients = [],
+    ingredients = [],
 }) => {
     return (
         <div className={className}>
