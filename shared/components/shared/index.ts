@@ -11,5 +11,7 @@ export {ProductCard} from './product-card';
 export {ProductsGroupList} from './products-group-list';
 export {SearchInput} from './search-input';
 export {GroupVariants} from './group-variants';
-export {ProductImage} from './pizza-image'
-export * from './modals'
+export {PizzaImage} from './pizza-image';
+export {IngredientItem} from './ingredient-item';
+export {ProductForm} from './product-form';
+export * from './modals';
