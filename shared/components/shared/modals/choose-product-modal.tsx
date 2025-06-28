@@ -5,10 +5,7 @@ import { cn } from '@/shared/lib/utils';
 import React from 'react';
 import { useRouter } from 'next/navigation';
 import { ProductWithRelations } from '@/@types/prisma';
-import { useCartStore } from '@/shared/store';
 import { ProductForm } from '../product-form';
-
-
 
 interface Props {
   product: ProductWithRelations;
