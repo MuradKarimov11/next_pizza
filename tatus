@@ -1,0 +1,95 @@
+[33mcommit da2990cd7f433f5f7a358b4993db838351804556[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Murad Karimov <muradkarimov07@gmail.com>
+Date:   Sun Jun 29 14:15:54 2025 +0300
+
+    created find-pizzas.ts
+
+[33mcommit b4a4477dbb61ff6d2ad5de20348ee90fb66100b8[m
+Author: Murad Karimov <muradkarimov07@gmail.com>
+Date:   Sat Jun 28 13:45:57 2025 +0300
+
+    added lib react-hot-toast and modified ShadCN ui component button
+
+[33mcommit 1aee799e03275ea37cf740aec3bce04d2d32c8ca[m
+Author: Murad Karimov <muradkarimov07@gmail.com>
+Date:   Fri Jun 27 15:50:50 2025 +0300
+
+    created store useCartStore, services cart and hook useCart
+
+[33mcommit ced77bea750832c8f42cd6a68e671106981fc9b1[m
+Author: Murad Karimov <muradkarimov07@gmail.com>
+Date:   Thu Jun 26 14:17:36 2025 +0300
+
+    created  cart API and files in folder lib: find-or-create-cart, update-cart-total-amount
+
+[33mcommit 2185b59a7ebe6686ddc69d67ac5bd8e0c18c58cf[m
+Author: Murad Karimov <muradkarimov07@gmail.com>
+Date:   Thu Jun 26 13:57:05 2025 +0300
+
+    created files in folder lib: get-cart-details, get-cart-item-details and cart-item-total-price
+
+[33mcommit 2a51bfe328af4a910427dc9e39a7ede23f4a2e4b[m
+Author: Murad Karimov <muradkarimov07@gmail.com>
+Date:   Thu Jun 26 12:55:32 2025 +0300
+
+    created basket for web app: created folder cart-item-details and component cart-button, cart-drawer-item, cart-drawer
+
+[33mcommit 97f09e8542a7609b1303b6ef3b9cc321975880ce[m
+Author: Murad Karimov <muradkarimov07@gmail.com>
+Date:   Tue Jun 24 18:47:40 2025 +0300
+
+    created ingredient-item.tsx and product-form.tsx
+
+[33mcommit 1b1e32d9b8c25734008965b270446cd1ffc1de83[m
+Author: Murad Karimov <muradkarimov07@gmail.com>
+Date:   Tue Jun 24 11:23:45 2025 +0300
+
+    We put the folders in a common folder
+
+[33mcommit 21b7716c8cf13f7381633bf254c7c876dbe58d04[m
+Author: Murad Karimov <muradkarimov07@gmail.com>
+Date:   Sun Jun 22 14:09:36 2025 +0300
+
+    created Parallel Routes in project
+
+[33mcommit d2f7c3cab633ea05e1ab327f4bf1afac32f9ed94[m
+Author: Murad Karimov <muradkarimov07@gmail.com>
+Date:   Sat Jun 21 15:27:26 2025 +0300
+
+    created Group Routes
+
+[33mcommit c9e85d20a0d04dcd306d02585f1764465e58607e[m
+Author: Murad Karimov <muradkarimov07@gmail.com>
+Date:   Sat Jun 21 10:22:30 2025 +0300
+
+    created component ProductImage
+
+[33mcommit c6bd6d02db3650e0df3e7bb83863936fdab56ed7[m
+Author: Murad Karimov <muradkarimov07@gmail.com>
+Date:   Fri Jun 20 16:00:27 2025 +0300
+
+    created custom hooks for ingredients and filter
+
+[33mcommit 1890df53a4e442a59d1887ffc4dceea6abd5c1bd[m
+Author: Murad Karimov <muradkarimov07@gmail.com>
+Date:   Fri Jun 20 14:21:25 2025 +0300
+
+    created api files and services folder
+
+[33mcommit 9bb6e83cfe14ff4c062a11801cef4efc855fdcce[m
+Author: Murad Karimov <muradkarimov07@gmail.com>
+Date:   Fri Jun 20 00:57:56 2025 +0300
+
+    added files prisma seed and prisma constants
+
+[33mcommit ffeee400581dd9fbe713d05248afcd52e04277fd[m
+Author: Murad Karimov <muradkarimov07@gmail.com>
+Date:   Tue Jun 17 16:49:36 2025 +0300
+
+    connected prisma, zustand and created api users
+
+[33mcommit b5e35499a8d3ce5a43394579b134c1a6716058c6[m
+Author: Murad Karimov <muradkarimov07@gmail.com>
+Date:   Mon Jun 16 23:26:25 2025 +0300
+
+    first commit

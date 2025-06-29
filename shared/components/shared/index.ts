@@ -20,3 +20,5 @@ export {CartDrawer} from './cart-drawer';
 export {CartDrawerItem} from './cart-drawer-item';
 export {CountIconButton} from './count-icon-button';
 export {CountButton} from './count-button';
+export {WhiteBlock} from './white-block'
+export {CheckoutItemDetails} from './checkout-item-details'
