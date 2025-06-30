@@ -22,3 +22,5 @@ export {CountIconButton} from './count-icon-button';
 export {CountButton} from './count-button';
 export {WhiteBlock} from './white-block'
 export {CheckoutItemDetails} from './checkout-item-details'
+export {CheckoutItem} from './checkout-item';
+export {CheckoutItemSkeleton} from './checkout-item-skeleton';
