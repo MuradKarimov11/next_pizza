@@ -29,6 +29,7 @@ export {ClearButton} from './clear-button';
 export {ErrorText} from './error-text';
 export {AdressInput} from './address-input';
 export {ProfileButton} from './profile-button';
+export {InfoBlock} from './info-block';
 export * from './email-temapltes';
 export * from './checkout';
 export * from './form';
